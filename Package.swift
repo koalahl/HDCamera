@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "MijickCamera",
+    name: "HDCamera",
     platforms: [
         .iOS(.v14)
     ],
